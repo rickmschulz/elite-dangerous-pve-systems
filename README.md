@@ -54,4 +54,4 @@ The spreadsheet has *conditional formatting*, so, choose sources/target systems 
 
 To wrap it all up, a good tool to find good systems and do some pirate massacre missions.
 
-This Tool is posted in [Reddit].(https://www.reddit.com/r/EliteDangerous/comments/z6yuj0/elite_dangerous_tool_for_for_massacre_missions/)
+This Tool is posted in [Reddit](https://www.reddit.com/r/EliteDangerous/comments/z6yuj0/elite_dangerous_tool_for_for_massacre_missions/).
