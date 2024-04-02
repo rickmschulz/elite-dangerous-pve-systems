@@ -6,6 +6,15 @@ I often see myself struggling to find the best sources/target systems for stacki
 
 So, i found a way to speed up the proccess to search pirate massacre missions daily.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Comprehension](#comprehension)
+- [How it Works](#how-it-works)
+- [The Tool:](#the-tool)
+- [How to Use It](#how-to-use-it)
+- [TL;DR](#tldr)
+
 ## Comprehension 
 
 I'm sure some of you are asking "What means sources/target systems?" and the mechanics behind massacre missions. All you need to know about them is explained in this amazing post [PSA: A tool for finding good sources of PVE "Massacre pirates" missions](https://www.reddit.com/r/EliteDangerous/comments/hpzmox/psa_a_tool_for_finding_good_sources_of_pve/) by [u/cold-n-sour](https://www.reddit.com/user/cold-n-sour/).
@@ -34,7 +43,7 @@ The tool analyzes data from [edtools PVE missions systems](https://edtools.cc/pv
 * Investigate minor factions for the presence of state of war, election or civil war.
 * Compilate all information to the [Spreadsheet Tool](https://docs.google.com/spreadsheets/d/1PCTz1hLz3UxeiQT1MsrIKjZeRZTbJL_xn2ij0vpMu6A/edit?usp=sharing).
 
-## The Tool:
+## The Tool
 
 ### [Spreadsheet Tool](https://docs.google.com/spreadsheets/d/1PCTz1hLz3UxeiQT1MsrIKjZeRZTbJL_xn2ij0vpMu6A/edit?usp=sharing)
 
